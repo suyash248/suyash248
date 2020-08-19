@@ -1,6 +1,6 @@
 <h3 align="left">Software Development Engineer</h3>
 
-### Skills
+### Tools & Technologies
 
 <p align="left">
   <!-- Python -->
