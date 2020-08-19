@@ -1,5 +1,3 @@
-## Progammer
-
 ### Tools & Technologies
 
 <p align="left">
