@@ -14,7 +14,7 @@
   <!-- Flask -->
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
   <!-- Redis -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/redis.svg" alt="redis" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/> 
   <!-- Kafka -->
   <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> 
   <!-- Cassandra -->
@@ -26,7 +26,7 @@
   <!-- PostgreSQL -->
   <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   <!-- Neo4j -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/neo4j.svg" alt="neo4j" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg" alt="neo4j" width="40" height="40"/>
   <!-- Spring -->
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spring.svg" alt="spring" width="40" height="40"/>
   <!-- Ansible -->
