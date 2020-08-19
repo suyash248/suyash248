@@ -51,13 +51,13 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyash248&layout=compact)](https://github.com/suyash248/github-readme-stats)
+
 ### Github stats
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suyash248" alt="suyash248" /> </p>
 
 ![Suyash's github stats](https://github-readme-stats.vercel.app/api?username=suyash248&show_icons=true&theme=gradient&include_all_commits=true&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyash248&layout=compact)](https://github.com/suyash248/github-readme-stats)
 
 
 ### Profiles
