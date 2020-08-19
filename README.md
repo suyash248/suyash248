@@ -59,7 +59,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyash248&layout=compact)](https://github.com/suyash248/github-readme-stats)
 
-### Reach out to me
-<a href="mailto:suyash.soni248@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="suyash.soni248@gmail.com" height="30" width="30" /></a>
+
+### Profiles
 <a href="https://linkedin.com/in/suyash248" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="suyash248" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/3478114/suyash-soni" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="stackoverflow" height="30" width="30" /></a>
+
+### Contact me
+
+Reach out to me at **suyash.soni248@gmail.com**
