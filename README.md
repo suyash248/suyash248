@@ -27,6 +27,10 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   <!-- PostgreSQL -->
   <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  <!-- Hibernate -->
+  <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="40" height="40"/> 
+  <!-- Elasticsearch -->
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> 
   <!-- Neo4j -->
   <img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg" alt="neo4j" width="40" height="40"/>
   <!-- Zookeeper -->
@@ -56,7 +60,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyash248&layout=compact)](https://github.com/suyash248/github-readme-stats)
 
 ### Reach out to me
-
-<a href="https://linkedin.com/in/suyash248" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="suyash248" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/3478114/suyash-soni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/3478114/suyash-soni" height="30" width="30" /></a>
-<a href="mailto:suyash.soni248@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="https://stackoverflow.com/users/3478114/suyash-soni" height="30" width="30" /></a>
+<a href="mailto:suyash.soni248@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="suyash.soni248@gmail.com" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/suyash248" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="suyash248" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/3478114/suyash-soni" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="stackoverflow" height="30" width="30" /></a>
