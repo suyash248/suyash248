@@ -56,8 +56,8 @@
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=suyash248" alt="suyash248" /> 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyash248&layout=compact&card_width=400)](https://github.com/suyash248)
-![Suyash's github stats](https://github-readme-stats.vercel.app/api?username=suyash248&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&line_height=31&card_width=400)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyash248&layout=compact&card_width=250)](https://github.com/suyash248)
+![Suyash's github stats](https://github-readme-stats.vercel.app/api?username=suyash248&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&line_height=31&card_width=250)
 
 --- 
 
