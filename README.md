@@ -57,17 +57,17 @@
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=suyash248" alt="suyash248" /> 
 
-![Suyash's github stats](https://github-readme-stats.vercel.app/api?username=suyash248&show_icons=true&theme=gradient&include_all_commits=true&count_private=true)
+![Suyash's github stats](https://github-readme-stats.vercel.app/api?username=suyash248&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 </p>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suyash248&repo=sqlalchemy-json-querybuilder)](https://github.com/suyash248/sqlalchemy-json-querybuilder)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suyash248&repo=persistent-zeromq)](https://github.com/suyash248/persistent-zeromq)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suyash248&repo=cloud-file-sync)](https://github.com/suyash248/cloud-file-sync)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suyash248&repo=ds_algo)](https://github.com/suyash248/ds_algo)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suyash248&repo=notifier)](https://github.com/suyash248/notifier)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suyash248&repo=ds_algo)](https://github.com/suyash248/ds_algo)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suyash248&repo=tweety)](https://github.com/suyash248/tweety)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suyash248&repo=plagiarism_detection)](https://github.com/suyash248/plagiarism_detection)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suyash248&repo=sqlalchemy-json-querybuilder&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical)](https://github.com/suyash248/sqlalchemy-json-querybuilder)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suyash248&repo=persistent-zeromq&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical)](https://github.com/suyash248/persistent-zeromq)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suyash248&repo=cloud-file-sync&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical)](https://github.com/suyash248/cloud-file-sync)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suyash248&repo=ds_algo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical)](https://github.com/suyash248/ds_algo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suyash248&repo=notifier&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical)](https://github.com/suyash248/notifier)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suyash248&repo=ds_algo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical)](https://github.com/suyash248/ds_algo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suyash248&repo=tweety&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical)](https://github.com/suyash248/tweety)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suyash248&repo=plagiarism_detection&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical)](https://github.com/suyash248/plagiarism_detection)
 
 
 ---
