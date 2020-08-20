@@ -92,7 +92,7 @@ Reach out to me at **suyash.soni248@gmail.com**
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suyash248&repo=cloud-file-sync&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical)](https://github.com/suyash248/cloud-file-sync)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suyash248&repo=ds_algo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical)](https://github.com/suyash248/ds_algo)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suyash248&repo=notifier&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical)](https://github.com/suyash248/notifier)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suyash248&repo=ds_algo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical)](https://github.com/suyash248/ds_algo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suyash248&repo=ds_algo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical)](https://github.com/suyash248/ansible-role-cassandra)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suyash248&repo=tweety&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical)](https://github.com/suyash248/tweety)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suyash248&repo=plagiarism_detection&bg_color=40,e96443,904e95&title_color=fff&text_color=fff&theme=radical)](https://github.com/suyash248/plagiarism_detection)
 
