@@ -51,17 +51,31 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyash248)](https://github.com/suyash248)
 
+
 ### Github stats
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suyash248" alt="suyash248" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suyash248" alt="suyash248" /> 
 
 ![Suyash's github stats](https://github-readme-stats.vercel.app/api?username=suyash248&show_icons=true&theme=gradient&include_all_commits=true&count_private=true)
 
+</p>
+
+<p>
+<a href="https://github.com/suyash248/ds_algo">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=suyash248&repo=ds_algo" />
+</a>
+<a href="https://github.com/suyash248/https://github.com/suyash248/sqlalchemy-json-querybuilder">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=suyash248&repo=sqlalchemy-json-querybuilder" />
+</a>
+</p>
 
 ### Profiles
+<p>
 <a href="https://linkedin.com/in/suyash248" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="suyash248" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/3478114/suyash-soni" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="stackoverflow" height="30" width="30" /></a>
+</p>
 
 ### Contact me
-
+<p>
 Reach out to me at **suyash.soni248@gmail.com**
+</p>
