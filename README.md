@@ -49,6 +49,8 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </p>
 
+---
+
 ### Github stats
 
 <p align="left"> 
@@ -57,12 +59,16 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyash248&layout=compact&card_width=400)](https://github.com/suyash248)
 ![Suyash's github stats](https://github-readme-stats.vercel.app/api?username=suyash248&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&line_height=31&card_width=400)
 
+--- 
+
 ### Open source
 
 * [sqlalchemy-json-querybuilder](https://pypi.org/project/sqlalchemy-json-querybuilder/1.2.3)
 * [ansible-cassandra](https://galaxy.ansible.com/suyash248/ansible_role_cassandra)
 * [ansible-kafka](https://galaxy.ansible.com/suyash248/ansible_role_kafka)
 * [ansible-zookeeper](https://galaxy.ansible.com/suyash248/ansible_role_zookeeper)
+
+---
 
 ### Profiles
 
@@ -74,7 +80,6 @@
   <img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="stackoverflow" height="30" width="30" />
 </a>
 </p>
-
    
 ### Contact me
 
