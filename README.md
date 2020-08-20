@@ -51,6 +51,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyash248)](https://github.com/suyash248)
 
+### Open source
+
+* [sqlalchemy-json-querybuilder](https://pypi.org/project/sqlalchemy-json-querybuilder/1.2.3)
+* [ansible-cassandra](https://galaxy.ansible.com/suyash248/ansible_role_cassandra)
+* [ansible-kafka](https://galaxy.ansible.com/suyash248/ansible_role_kafka)
+* [ansible-zookeeper](https://galaxy.ansible.com/suyash248/ansible_role_zookeeper)
+
 
 ### Github stats
 
@@ -67,7 +74,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suyash248&repo=notifier&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical)](https://github.com/suyash248/notifier)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suyash248&repo=ds_algo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical)](https://github.com/suyash248/ds_algo)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suyash248&repo=tweety&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical)](https://github.com/suyash248/tweety)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suyash248&repo=plagiarism_detection&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical)](https://github.com/suyash248/plagiarism_detection)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suyash248&repo=plagiarism_detection&bg_color=40,e96443,904e95&title_color=fff&text_color=fff&theme=radical)](https://github.com/suyash248/plagiarism_detection)
 
 
 ---
