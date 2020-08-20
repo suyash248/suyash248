@@ -81,11 +81,7 @@
 </a>
 </p>
    
-### Contact me
-
-<p align="left">
 Reach out to me at **suyash.soni248@gmail.com**
-</p>
 
 ---
 
