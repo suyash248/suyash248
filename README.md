@@ -58,19 +58,23 @@
 <img src="https://komarev.com/ghpvc/?username=suyash248" alt="suyash248" /> 
 
 ![Suyash's github stats](https://github-readme-stats.vercel.app/api?username=suyash248&show_icons=true&theme=gradient&include_all_commits=true&count_private=true)
-
-<a href="https://github.com/suyash248/ds_algo">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=suyash248&repo=ds_algo" />
-</a>
-<a href="https://github.com/suyash248/https://github.com/suyash248/sqlalchemy-json-querybuilder">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=suyash248&repo=sqlalchemy-json-querybuilder" />
-</a>
 </p>
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suyash248&repo=sqlalchemy-json-querybuilder)](https://github.com/suyash248/sqlalchemy-json-querybuilder)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suyash248&repo=persistent-zeromq)](https://github.com/suyash248/persistent-zeromq)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suyash248&repo=cloud-file-sync)](https://github.com/suyash248/cloud-file-sync)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suyash248&repo=ds_algo)](https://github.com/suyash248/ds_algo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suyash248&repo=notifier)](https://github.com/suyash248/notifier)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suyash248&repo=ds_algo)](https://github.com/suyash248/ds_algo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suyash248&repo=tweety)](https://github.com/suyash248/tweety)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=suyash248&repo=plagiarism_detection)](https://github.com/suyash248/plagiarism_detection)
+
+
+---
     
 ### Profiles
 
-<p align="left" width="100%">
+<p align="left">
 <a href="https://linkedin.com/in/suyash248" target="blank">
   <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="suyash248" height="30" width="30" />
 </a>
@@ -82,6 +86,6 @@
    
 ### Contact me
 
-<p align="left" width="100%">
+<p align="left">
 Reach out to me at **suyash.soni248@gmail.com**
 </p>
