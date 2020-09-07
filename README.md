@@ -64,6 +64,7 @@
 ### Open source
 
 * [sqlalchemy-json-querybuilder](https://pypi.org/project/sqlalchemy-json-querybuilder/1.2.3)
+* [docker-cassandra](https://hub.docker.com/repository/docker/suyash248/cassandra)
 * [ansible-cassandra](https://galaxy.ansible.com/suyash248/ansible_role_cassandra)
 * [ansible-kafka](https://galaxy.ansible.com/suyash248/ansible_role_kafka)
 * [ansible-zookeeper](https://galaxy.ansible.com/suyash248/ansible_role_zookeeper)
