@@ -5,6 +5,8 @@
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> 
   <!-- Java -->
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> 
+  <!-- Kotlin -->
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
   <!-- Scala -->
   <img src="https://github.com/detain/svg-logos/blob/master/svg/scala-4.svg" alt="scala" width="40" height="40"/>
   <!-- Akka -->
