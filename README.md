@@ -2,7 +2,7 @@
 
 <p align="left">
   <!-- Python -->
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" title="python" width="40" height="40"/> 
   <!-- Java -->
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> 
   <!-- Kotlin -->
